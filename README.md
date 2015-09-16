@@ -2,4 +2,4 @@
 
 Chase Springer
 
-Lab 3 - Github
+Lab 3 - Version Control
